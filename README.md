@@ -9,7 +9,7 @@ Se implementa divisiones enteras entre dos números extremadamente grandes (hast
 ## 👥 Autores
 GERARDO OSPINA HERNANDEZ
 
-- [JUAN SEBASTIÁN GUAYAZÁN CLAVIJO](https://github.com/JSGC-ECI) → [juan.guayazan-c@mail.escuelaing.edu.co](mailto:juan.guayazan-c@mail.escuelaing.edu.co)
+- [JUAN SEBASTIÁN GUAYAZÁN CLAVIJO](https://github.com/JuanGuayazanC) → [juan.guayazan-c@mail.escuelaing.edu.co](mailto:juan.guayazan-c@mail.escuelaing.edu.co)
 
 Organización de los Sistemas de Cómputo (ISIS ODSC-1 y ODSC-101)      
 Decanatura Ingeniería de Sistemas → Centro de Estudios de Arquitectura Tecnológica y Seguridad     
@@ -56,7 +56,7 @@ Escuela Colombiana de Ingeniería Julio Garavito 
 ### Clonar el repositorio
 
 ```bash
-git clone  https://github.com/JSGC-ECI/Division-entera-Complemento-9-ODSC.git
+git clone  https://github.com/JuanGuayazanC/Division-entera-Complemento-9-ODSC.git
 cd Division-entera-Complemento-9-ODSC
 ````
 

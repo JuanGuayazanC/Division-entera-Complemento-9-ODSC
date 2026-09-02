@@ -45,6 +45,8 @@ Escuela Colombiana de Ingeniería Julio Garavito 
 
 ## ⚙️ Tecnologías
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![GCC](https://img.shields.io/badge/GCC-A8B9CC?style=flat-square&logo=gnu&logoColor=white)
+
 - Lenguaje: `C`
 - Herramientas: `GCC`, `onlinegdb`
 - Dependencias: Ninguna externa (usa solo la biblioteca estándar)

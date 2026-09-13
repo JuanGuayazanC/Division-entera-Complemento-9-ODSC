@@ -7,15 +7,15 @@ Se implementa divisiones enteras entre dos números extremadamente grandes (hast
 ---
 
 ## 👥 Autores
-GERARDO OSPINA HERNANDEZ
+GERARDO OSPINA HERNANDEZ  
 
-- [JUAN SEBASTIÁN GUAYAZÁN CLAVIJO](https://github.com/JuanGuayazanC) → [juan.guayazan-c@mail.escuelaing.edu.co](mailto:juan.guayazan-c@mail.escuelaing.edu.co)
+- [JUAN SEBASTIÁN GUAYAZÁN CLAVIJO](https://github.com/JuanGuayazanC) → [juan.guayazan-c@mail.escuelaing.edu.co](mailto:juan.guayazan-c@mail.escuelaing.edu.co)  
 
-Organización de los Sistemas de Cómputo (ISIS ODSC-1 y ODSC-101)      
-Decanatura Ingeniería de Sistemas → Centro de Estudios de Arquitectura Tecnológica y Seguridad     
-Ingeniería de Sistemas    
-Escuela Colombiana de Ingeniería Julio Garavito     
-2025-i
+Organización de los Sistemas de Cómputo (ISIS ODSC-1 y ODSC-101)  
+Decanatura Ingeniería de Sistemas → Centro de Estudios de Arquitectura Tecnológica y Seguridad  
+Ingeniería de Sistemas  
+Escuela Colombiana de Ingeniería Julio Garavito  
+2025-i  
 
 ---
 
